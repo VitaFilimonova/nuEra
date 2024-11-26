@@ -4,7 +4,7 @@ NuEra project
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup and Usage](#setup)
+* [Setup and Usage](#setup-and-usage)
 
 ## General info
 This project is simple realisation an messenger. The project can be used to desktop screen sizes.
@@ -26,4 +26,4 @@ Clone this repo to your desktop and run `npm install --legacy-peer-deps` to inst
 
 Once the dependencies are installed, you can `npm run dev` start to start the application. You will then be able to access it at localhost:3000.
 
-For opening the page go to address: [localhost:3000/profile/](http://localhost:3000/profile/message). For openenig the second view click on a message card.
+For opening the page go to address: [localhost:3000/profile/message](http://localhost:3000/profile/message). For openenig the second view click on a message card.
